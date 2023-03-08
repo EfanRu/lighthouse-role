@@ -1,0 +1,10 @@
+galaxy_info:
+  author: Slava E.
+  description: Role for install Lighthouse.
+  company: Netology
+  license: MIT
+  min_ansible_version: 2.1
+  galaxy_tags: [
+    vector,
+    install
+  ]
